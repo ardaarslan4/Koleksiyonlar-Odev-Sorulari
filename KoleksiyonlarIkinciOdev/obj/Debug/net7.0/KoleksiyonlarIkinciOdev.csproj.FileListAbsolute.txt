@@ -1,0 +1,15 @@
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\bin\Debug\net7.0\KoleksiyonlarIkinciOdev.exe
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\bin\Debug\net7.0\KoleksiyonlarIkinciOdev.deps.json
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\bin\Debug\net7.0\KoleksiyonlarIkinciOdev.runtimeconfig.json
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\bin\Debug\net7.0\KoleksiyonlarIkinciOdev.dll
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\bin\Debug\net7.0\KoleksiyonlarIkinciOdev.pdb
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\obj\Debug\net7.0\KoleksiyonlarIkinciOdev.csproj.AssemblyReference.cache
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\obj\Debug\net7.0\KoleksiyonlarIkinciOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\obj\Debug\net7.0\KoleksiyonlarIkinciOdev.AssemblyInfoInputs.cache
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\obj\Debug\net7.0\KoleksiyonlarIkinciOdev.AssemblyInfo.cs
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\obj\Debug\net7.0\KoleksiyonlarIkinciOdev.csproj.CoreCompileInputs.cache
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\obj\Debug\net7.0\KoleksiyonlarIkinciOdev.dll
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\obj\Debug\net7.0\refint\KoleksiyonlarIkinciOdev.dll
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\obj\Debug\net7.0\KoleksiyonlarIkinciOdev.pdb
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\obj\Debug\net7.0\KoleksiyonlarIkinciOdev.genruntimeconfig.cache
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarIkinciOdev\obj\Debug\net7.0\ref\KoleksiyonlarIkinciOdev.dll

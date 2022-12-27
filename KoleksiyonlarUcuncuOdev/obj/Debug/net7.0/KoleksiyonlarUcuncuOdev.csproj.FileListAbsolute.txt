@@ -1,0 +1,15 @@
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\bin\Debug\net7.0\KoleksiyonlarUcuncuOdev.exe
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\bin\Debug\net7.0\KoleksiyonlarUcuncuOdev.deps.json
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\bin\Debug\net7.0\KoleksiyonlarUcuncuOdev.runtimeconfig.json
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\bin\Debug\net7.0\KoleksiyonlarUcuncuOdev.dll
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\bin\Debug\net7.0\KoleksiyonlarUcuncuOdev.pdb
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\obj\Debug\net7.0\KoleksiyonlarUcuncuOdev.csproj.AssemblyReference.cache
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\obj\Debug\net7.0\KoleksiyonlarUcuncuOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\obj\Debug\net7.0\KoleksiyonlarUcuncuOdev.AssemblyInfoInputs.cache
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\obj\Debug\net7.0\KoleksiyonlarUcuncuOdev.AssemblyInfo.cs
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\obj\Debug\net7.0\KoleksiyonlarUcuncuOdev.csproj.CoreCompileInputs.cache
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\obj\Debug\net7.0\KoleksiyonlarUcuncuOdev.dll
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\obj\Debug\net7.0\refint\KoleksiyonlarUcuncuOdev.dll
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\obj\Debug\net7.0\KoleksiyonlarUcuncuOdev.pdb
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\obj\Debug\net7.0\KoleksiyonlarUcuncuOdev.genruntimeconfig.cache
+C:\Users\argeuser\Desktop\Projeler\KoleksiyonlarUcuncuOdev\obj\Debug\net7.0\ref\KoleksiyonlarUcuncuOdev.dll
